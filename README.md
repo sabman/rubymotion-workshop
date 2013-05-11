@@ -4,20 +4,17 @@
 * Existing iOS developers interested in the Ruby Motion tool chain and workflow
 * Existing Ruby Developers wanting to get into iOS 
 
-Join in if you are
+Join in if you are:
+
 * wanting to get started with Ruby Motion and iOS development
 * struggling to put all the pieces together and build a complete iPhone app
 * wanna have fun developing iOS apps
-
----
 
 # What Will I Learn?
 
 * How to create high-quality apps for the iPhone from scratch using Ruby Motion
 
 By the end of this workshop you will have built a Location Based App using RubyMotion. Complete with a background map showing your location and things close by. Allowing you to see and query things around you.
-
----
 
 ## Schedule
 
@@ -51,9 +48,6 @@ By the end of this workshop you will have built a Location Based App using RubyM
 * calling functions
 * using pointers
 
-... 
-
----
 
 # Pre-Requisites
  
